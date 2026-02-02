@@ -79,6 +79,8 @@ export interface VotingSession {
   qrCodeUrl?: string;
   votingUrl: string;
   status: string;
+  currentRoundNumber?: number;
+  currentAwardLevel?: '1st' | '2nd' | '3rd' | null;
   startedAt?: string;
   closedAt?: string;
   createdBy?: string;
