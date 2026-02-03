@@ -69,7 +69,7 @@
                 <div style="font-size: 12px; line-height: 1.5;">
                   <div>参考规则：</div>
                   <div>• 一等奖数量不超过总项目数的20%</div>
-                  <div>• 二等奖数量不超过总项目数的50%</div>
+                  <div>• 一、二等奖纵数量不超过总项目数的50%</div>
                   <div>• 一、二、三等奖总数不超过总项目数的80%</div>
                   <div style="margin-top: 5px; color: #909399;">（此规则仅供参考，实际以手填为准）</div>
                 </div>
